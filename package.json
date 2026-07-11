@@ -80,6 +80,11 @@
 				"id": "noir-icons",
 				"label": "Noir Icons",
 				"path": "./icons/noir-icons.json"
+			},
+			{
+				"id": "noir-sakura-icons",
+				"label": "Noir Sakura Icons",
+				"path": "./icons/noir-sakura-icons.json"
 			}
 		]
 	},
