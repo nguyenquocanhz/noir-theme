@@ -15,7 +15,9 @@
 		"dark",
 		"theme",
 		"icons",
-		"developer"
+		"developer",
+		"sakura",
+		"anime"
 	],
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -51,6 +53,11 @@
 				"label": "Noir (Vampiric)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/noir-vampiric.json"
+			},
+			{
+				"label": "Noir (Sakura)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/noir-sakura.json"
 			},
 			{
 				"label": "Noir (Navy High Contrast)",

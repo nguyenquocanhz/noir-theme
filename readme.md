@@ -4,11 +4,12 @@ Elegant dark color theme + file icon pack for Visual Studio Code. Built for deve
 
 ## Features
 
-- **7 theme variants:**
+- **8 theme variants:**
   - `Noir`: The flagship dark mode.
   - `Noir (Soft)`: A softer contrast variant.
   - `Noir (Navy)`: A deep navy blue background.
   - `Noir (Vampiric)`: A deep crimson-dark theme.
+  - `Noir (Sakura)`: Cherry blossom dark-pastel theme for anime fans (Wibu).
   - `Noir (Navy High Contrast)`: High contrast navy theme.
   - `Noir (Dark High Contrast)`: Pure pitch-black high contrast theme.
   - `Noir (Light High Contrast)`: Crisp light mode for day usage.
@@ -17,7 +18,7 @@ Elegant dark color theme + file icon pack for Visual Studio Code. Built for deve
 
 ## Install
 
-**Activate Theme:** `Ctrl+Shift+P` → `Preferences: Color Theme` → `Noir`
+**Activate Theme:** `Ctrl+Shift+P` → `Preferences: Color Theme` → `Noir` or `Noir (Sakura)`
 
 **Activate Icons:** `Ctrl+Shift+P` → `Preferences: File Icon Theme` → `Noir Icons`
 
