@@ -2,6 +2,12 @@
 
 Elegant dark color theme + file icon pack for Visual Studio Code. Built for developers who appreciate high-contrast readability with rich aesthetics.
 
+## About the Project
+
+**Noir Theme** is a customized collection of dark color themes and matching file icons for Visual Studio Code. Originally developed as an educational project for learning VS Code extension customization, theme JSON schemas, licensing, and publishing workflows, it offers 8 distinct theme temperatures ranging from pure pitch-black high contrast to a soft pastel cherry blossom (Sakura) theme.
+
+This project is completely open-source, copyleft under the GPL-3.0 license, and free for learning purposes.
+
 ## Features
 
 - **8 theme variants:**
