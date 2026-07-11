@@ -1,0 +1,88 @@
+{
+    "name":  "Noir (Navy High Contrast)",
+    "type":  "dark",
+    "colors":  {
+                   "focusBorder":  "#7DCFFF",
+                   "foreground":  "#FFFFFF",
+                   "disabledForeground":  "#475E8C",
+                   "selection.background":  "#1D3B73",
+                   "descriptionForeground":  "#7AA2F7",
+                   "errorForeground":  "#FF4444",
+                   "icon.foreground":  "#FFFFFF",
+                   "activityBar.background":  "#000000",
+                   "activityBar.foreground":  "#7DCFFF",
+                   "activityBar.inactiveForeground":  "#334155",
+                   "activityBar.border":  "#000000",
+                   "activityBarBadge.background":  "#7AA2F7",
+                   "activityBarBadge.foreground":  "#000000",
+                   "sideBar.background":  "#02040A",
+                   "sideBar.foreground":  "#E2E8F0",
+                   "sideBar.border":  "#000000",
+                   "sideBarTitle.foreground":  "#7AA2F7",
+                   "sideBarSectionHeader.background":  "#0F172A",
+                   "sideBarSectionHeader.foreground":  "#7DCFFF",
+                   "editor.background":  "#000000",
+                   "editor.foreground":  "#FFFFFF",
+                   "editorLineNumber.foreground":  "#475E8C",
+                   "editorLineNumber.activeForeground":  "#7DCFFF",
+                   "editorCursor.foreground":  "#7DCFFF",
+                   "editor.selectionBackground":  "#1D3B73",
+                   "editor.lineHighlightBackground":  "#0F172A",
+                   "editorGroupHeader.tabsBackground":  "#000000",
+                   "tab.activeBackground":  "#000000",
+                   "tab.activeForeground":  "#7DCFFF",
+                   "tab.border":  "#000000",
+                   "tab.activeBorderTop":  "#7AA2F7",
+                   "tab.inactiveBackground":  "#02040A",
+                   "tab.inactiveForeground":  "#64748B",
+                   "titleBar.activeBackground":  "#000000",
+                   "titleBar.activeForeground":  "#FFFFFF",
+                   "statusBar.background":  "#000000",
+                   "statusBar.foreground":  "#E2E8F0",
+                   "terminal.background":  "#000000",
+                   "panel.background":  "#02040A",
+                   "panel.border":  "#0F172A"
+               },
+    "tokenColors":  [
+                        {
+                            "name":  "Keyword",
+                            "scope":  [
+                                          "keyword",
+                                          "storage",
+                                          "variable.language"
+                                      ],
+                            "settings":  {
+                                             "foreground":  "#7DCFFF",
+                                             "fontStyle":  "bold"
+                                         }
+                        },
+                        {
+                            "name":  "String",
+                            "scope":  [
+                                          "string"
+                                      ],
+                            "settings":  {
+                                             "foreground":  "#9ECE6A"
+                                         }
+                        },
+                        {
+                            "name":  "Function",
+                            "scope":  [
+                                          "entity.name.function"
+                                      ],
+                            "settings":  {
+                                             "foreground":  "#7AA2F7"
+                                         }
+                        },
+                        {
+                            "name":  "Comment",
+                            "scope":  [
+                                          "comment"
+                                      ],
+                            "settings":  {
+                                             "foreground":  "#565F89",
+                                             "fontStyle":  "italic"
+                                         }
+                        }
+                    ]
+}

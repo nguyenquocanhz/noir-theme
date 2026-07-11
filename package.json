@@ -1,0 +1,84 @@
+{
+	"name": "noir-theme",
+	"displayName": "Noir Theme",
+	"description": "Elegant dark theme with custom icon pack.",
+	"version": "2.0.1",
+	"publisher": "nqatech",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"noir",
+		"dark",
+		"theme",
+		"icons",
+		"developer"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#121214",
+		"theme": "dark"
+	},
+	"files": [
+		"themes",
+		"icons",
+		"icon.png",
+		"package.json",
+		"LICENSE",
+		"readme.md"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Noir",
+				"uiTheme": "vs-dark",
+				"path": "./themes/noir.json"
+			},
+			{
+				"label": "Noir (Soft)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/noir-soft.json"
+			},
+			{
+				"label": "Noir (Navy)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/noir-navy.json"
+			},
+			{
+				"label": "Noir (Vampiric)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/noir-vampiric.json"
+			},
+			{
+				"label": "Noir (Navy High Contrast)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/noir-navy-hc.json"
+			},
+			{
+				"label": "Noir (Dark High Contrast)",
+				"uiTheme": "hc-black",
+				"path": "./themes/noir-dark-hc.json"
+			},
+			{
+				"label": "Noir (Light High Contrast)",
+				"uiTheme": "hc-light",
+				"path": "./themes/noir-light-hc.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "noir-icons",
+				"label": "Noir Icons",
+				"path": "./icons/noir-icons.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nguyenquocanhz/noir-theme"
+	},
+	"license": "GPL-3.0-only"
+}
